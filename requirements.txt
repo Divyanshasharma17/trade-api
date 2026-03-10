@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
+httpx
+duckduckgo-search
+google-genai
+slowapi
+python-multipart
+python-dotenv
