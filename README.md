@@ -3,7 +3,6 @@
 A FastAPI service that analyzes market data and provides trade opportunity insights for specific sectors in India. It uses **Google Gemini AI** for analysis, **DuckDuckGo** for live web search, and **JWT authentication** for security.
 
 ---
-
 ## 🗂️ Project Structure
 
 ```
